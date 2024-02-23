@@ -1,0 +1,43 @@
+.register-section {
+    background-color: orange;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-box {
+    height: 70vh;
+    width: 40vw;
+    background-color: white;
+    box-shadow: 0.1rem 0.1rem 1rem black;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25vw;
+    height: 50vh;
+
+}
+
+.register-btn {
+    width: 25vw;
+    padding: 1rem 2rem;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+

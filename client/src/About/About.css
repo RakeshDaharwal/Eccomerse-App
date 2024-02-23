@@ -1,0 +1,17 @@
+.section-about{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-image: url("../Img/pic4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    opacity: 0.9;
+  }
+
+.about{
+    display: flex;
+    flex-direction: column;
+}
+
+  
